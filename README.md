@@ -4,12 +4,11 @@ Hi 👋 My name is Iliuță Ovidiu-Dragoș
 System Engineer
 -----------------
 
-I have finished a Bachelor's degree in System Engineering, but now I have found a passion for Software Engineering and I am eager to learn and get better
 
 * 🌍  I'm based in Craiova, Romania
 * ✉️  You can contact me at [ovidiudragos11@gmail.com](mailto:ovidiudragos11@gmail.com)
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on Web development projects
+
 
 ### Skills
 
