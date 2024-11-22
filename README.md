@@ -2,13 +2,10 @@ Hi 👋 My name is Iliuță Ovidiu-Dragoș
 =====================================
 
 System Engineer
------------------
-
+---------------
 
 * 🌍  I'm based in Craiova, Romania
 * ✉️  You can contact me at [ovidiudragos11@gmail.com](mailto:ovidiudragos11@gmail.com)
-* 🧠  I'm learning JavaScript
-
 
 ### Skills
 
