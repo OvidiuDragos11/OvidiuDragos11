@@ -1,7 +1,7 @@
 Hi 👋 My name is Iliuță Ovidiu-Dragoș
 =====================================
 
-Software Engineer
+System Engineer
 -----------------
 
 I have finished a Bachelor's degree in System Engineering, but now I have found a passion for Software Engineering and I am eager to learn and get better
