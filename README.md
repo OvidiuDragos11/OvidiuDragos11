@@ -1,7 +1,7 @@
 Hi 👋 My name is Iliuță Ovidiu-Dragoș
 =====================================
 
-System Engineer
+Automation and Applied Informatics Engineer
 ---------------
 
 * 🌍  I'm based in Craiova, Romania
