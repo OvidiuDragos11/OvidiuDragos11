@@ -1,12 +1,6 @@
 Hi 👋 My name is Iliuță Ovidiu-Dragoș
 =====================================
 
-Engineer
----------------
-
-* 🌍  I'm based in Craiova, Romania
-* ✉️  You can contact me at [ovidiudragos11@gmail.com](mailto:ovidiudragos11@gmail.com)
-
 ### Skills
 
 
